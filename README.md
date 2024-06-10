@@ -1,3 +1,2 @@
-# login_
-A login page using html and css.
-It's a simple login page for an application.
+This is a very basic user interface for a login page that i designed during the initial stages of my web development learning.
+It is designed using HTML.
